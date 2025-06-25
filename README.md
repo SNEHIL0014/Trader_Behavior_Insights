@@ -1,11 +1,11 @@
-# 🧠 Trader Sentiment Analysis
+# 🧠 Trader Behavior Insights
 
 This project explores the relationship between trader performance and market sentiment using the Bitcoin Fear & Greed Index and historical trading data from Hyperliquid.
 
 ## 📌 Objective
 
 - Analyze trader behavior across different sentiment regimes (Fear vs. Greed)
-- Identify how average PnL changes with sentiment
+- Identify how average Profit and Loss changes with sentiment
 - Deliver actionable insights for sentiment-aware trading strategies
 
 ---
