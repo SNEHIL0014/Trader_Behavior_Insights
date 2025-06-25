@@ -62,4 +62,5 @@ Open Trader_Sentiment_Analysis.ipynb in Jupyter or VSCode and execute each cell 
 
 ## Author
 SNEHIL SRIVASTAVA
+
 📧 Email: Snehil1420@gmail.com
